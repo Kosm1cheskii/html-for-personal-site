@@ -1,2 +1,2 @@
 # html-for-personal-site
-Code for a website about me, because I was (am) bored. It will include the HTML for the site - feel free to do whatever you want with it. This is just a boredom project.
+(AMENDMENT DATED 2 MAY 2024: This project is now obsolete and all code provided has been wiped. :))
